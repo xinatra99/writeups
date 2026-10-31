@@ -1,6 +1,0 @@
-{
-  "title": "Appkademiya CWPT Technical Writeup",
-  "date": "2026-10-31",
-  "description": "A chronological web lab walkthrough covering information leaks, access control, file handling, SSRF, SQL injection and command injection, with clear limits on what was verified.",
-  "author": "Austin BC"
-}
