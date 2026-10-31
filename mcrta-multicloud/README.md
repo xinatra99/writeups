@@ -1,4 +1,4 @@
-# MCRTA Multi Cloud Red Team Technical Writeup
+# MCRTA — Multi-Cloud Red Team Analyst — Writeup
 
 Austin BC
 
@@ -283,11 +283,6 @@ The saved board contained `stag-storage-metatech` for the bucket and `V13JG-NPH5
 
 Writeup source: [MCRTA in my security writeups repository](https://github.com/xinatra99/writeups/tree/main/mcrta-multicloud).
 
-## What I took from it
-
-I need to track the identity behind each request as carefully as the endpoint. A metadata token is useful only within its audience, permissions and resource context. Keeping that context explicit makes a failed request easier to diagnose and prevents a role name from becoming an assumed capability.
-
-I'd also save the raw responses alongside screenshots next time. The certificate confirms completion, but it can't reconstruct which command returned an answer or turn an unchecked field into a verified result.
 
 ## References
 
