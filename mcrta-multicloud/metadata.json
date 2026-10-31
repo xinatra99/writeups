@@ -1,0 +1,6 @@
+{
+  "title": "MCRTA Multi Cloud Red Team Technical Writeup",
+  "date": "2026-11-01",
+  "description": "An AWS, Azure and Google Cloud walkthrough covering exposed storage, metadata credentials and IAM, with captured results separated from reference methods.",
+  "author": "Austin BC"
+}
