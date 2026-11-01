@@ -2,4 +2,4 @@
 
 Technical writeups covering security labs, certs and security research.
 
-No writeups published yet.
+- [MCRTA: Chaining Cloud Misconfigurations](mcrta-multicloud/README.md)
