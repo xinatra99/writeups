@@ -9,3 +9,4 @@ Technical writeups covering security labs, certs and security research.
 - [COAP: Inside AppkaPay API Security Findings](coap-appkapay-api-security/README.md)
 - [CWPT: From Leaked Credentials to Command Injection](cwpt-web-penetration-testing/README.md)
 - [CTH: Tracing a Web Shell to Ransomware](cth-threat-hunting/README.md)
+- [CLES: How Far an SSH Foothold Took Me](cles-linux-exploitation/README.md)
