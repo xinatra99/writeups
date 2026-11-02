@@ -8,3 +8,4 @@ Technical writeups covering security labs, certs and security research.
 - [AD-RTS: From VPN Access to Domain Admin](adrts-ad-red-team/README.md)
 - [COAP: Inside AppkaPay API Security Findings](coap-appkapay-api-security/README.md)
 - [CWPT: From Leaked Credentials to Command Injection](cwpt-web-penetration-testing/README.md)
+- [CTH: Tracing a Web Shell to Ransomware](cth-threat-hunting/README.md)
